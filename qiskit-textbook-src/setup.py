@@ -16,5 +16,6 @@ setup(
     'matplotlib',
     'torch==1.3.1',
     'torchvision==0.4.2',
+    'pylatexenc',
   ]
 )
